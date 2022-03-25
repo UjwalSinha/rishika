@@ -1,11 +1,11 @@
 package rishika123;
 
-public class Test1 {
+public class Testcase2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Test case 1");
-		System.out.println("Testcase 2");
+		System.out.println("This is test case 2");
+
 	}
-  
+
 }
